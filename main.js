@@ -5,6 +5,7 @@ const PASSWORD = "12345";
 let username = prompt("Masukkan Username : ");
 let password = prompt("Masukkan Password : ");
 
+//inii contoh komen
 // if (nilai >= 75) {
 //     console.log("lulus");
 // } else if (nilai <= 75) {
