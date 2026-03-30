@@ -4,7 +4,7 @@ const USEERNAME = "admin" ;
 const PASSWORD = "12345";
 let username = prompt("Masukkan Username : ");
 let password = prompt("Masukkan Password : ");
-
+let age = 30;
 //inii contoh komen
 // if (nilai >= 75) {
 //     console.log("lulus");
