@@ -12,7 +12,7 @@ let password = prompt("Masukkan Password : ");
 // } else if (nilai <= 75) {
 //     console.log("gagal");
 // }
-
+//
 
 //studi kasus lv2
 // if (nilai >= 90) {
