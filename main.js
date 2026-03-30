@@ -3,7 +3,7 @@ const prompt = require("prompt-sync")(); //PERM
 
 const USEERNAME = "admin" ;
 const PASSWORD = "12345";
-
+const EMAIL = "";
 let username = prompt("Masukkan Username : ");
 let password = prompt("Masukkan Password : ");
 
@@ -12,7 +12,7 @@ let password = prompt("Masukkan Password : ");
 // } else if (nilai <= 75) {
 //     console.log("gagal");
 // }
-//
+
 
 //studi kasus lv2
 // if (nilai >= 90) {
